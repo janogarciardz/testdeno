@@ -1,6 +1,6 @@
 # test deno/fresh
 
-### deno
+#### demo
 [https://janogarciardz-testdeno.deno.dev/](https://janogarciardz-testdeno.deno.dev/)
 
 ### Usage
