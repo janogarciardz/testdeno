@@ -1,6 +1,6 @@
 import { type Handlers } from "$fresh/server.ts";
-import { renderChart } from "$fresh_charts/mod.ts";
-import { ChartColors, transparentize } from "$fresh_charts/utils.ts";
+import { renderChart } from "https://deno.land/x/fresh_charts/mod.ts";
+import { ChartColors, transparentize } from "https://deno.land/x/fresh_charts/utils.ts";
 
 export const handler: Handlers = {
 		GET() {
