@@ -24,6 +24,12 @@ export default function Home() {
 					<li><a href="/search">Search</a></li>
 					<li><a href="/countdown">Bomba</a></li>
 				</ul>
+
+				<img
+					src="/chart"
+					class="mx-auto my-4 h-96"
+					alt="an example chart provided as an image"
+				/>
       </div>
     </>
   );
