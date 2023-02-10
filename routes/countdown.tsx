@@ -7,7 +7,7 @@ export default function Page() {
 
 		return (
 						<p>
-							The big event is happening <Countdown target={date.toISOString()} />.
+							la bomba explota en <Countdown target={date.toISOString()} />.
 						</p>
 						);
 }

@@ -17,6 +17,13 @@ export default function Home() {
          	Testeando el framework Fresh que corre sobre Deno :)
         </p>
         <Counter start={3} />
+				<ul>
+					<li><a href="/api/random-uuid">api</a></li>
+					<li><a href="/github/janogarciardz">github</a></li>
+					<li><a href="/about">about</a></li>
+					<li><a href="/search">Search</a></li>
+					<li><a href="/countdown">Bomba</a></li>
+				</ul>
       </div>
     </>
   );
